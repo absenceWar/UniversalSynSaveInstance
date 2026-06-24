@@ -2498,7 +2498,7 @@ local function synsaveinstance(CustomOptions, CustomOptions2)
 		ShowStatus = true,
 		KillAllScripts = true,
 		SafeMode = true,
-		BoostFPS = false,
+		BoostFPS = true,
 		ShutdownWhenDone = false,
 		AntiIdle = true,
 		Anonymous = false,
